@@ -1,0 +1,19 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+.table .actions {
+    min-width: 180px;
+}
+
+.card {
+    margin-bottom: 1rem;
+}
+
+.card .table thead th {
+    border-top: none
+}
